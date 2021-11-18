@@ -1,6 +1,5 @@
 # Tech-Challenge
 
-Requisitos do desafio
 Dada uma expressão qualquer com parênteses, indique se a quantidade de parênteses está correta ou não, sem levar em conta o restante da expressão. Por exemplo:
 
 a+(bc)-2-a está correto (a+b(2-c)-2+a)*2 está correto
